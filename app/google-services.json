@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "48601132867",
+    "project_id": "gps-app-4b6"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48601132867:android:0e627ba85b556ae2",
+        "android_client_info": {
+          "package_name": "com.java.anshul.gpslive"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADQO9SMmwvoyPud8RuHztvJ86p8GZ_dzM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
